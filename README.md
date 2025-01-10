@@ -30,7 +30,7 @@ The **AI-Powered Cover Letter Generator** is an open-source project designed to 
 
 - Python 3.7 or higher
 - OpenAI API key
-- Required Python libraries (see `requirements.txt`)
+
 
 ### Installation
 
